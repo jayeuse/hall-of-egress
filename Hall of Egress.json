@@ -171,6 +171,174 @@
         "name": "assets\\StartingPixelCoin.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Images/playeridle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/playeridle1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/playeridle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/playeridle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/playeridle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/playeridle3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/UpNormalPlatform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/UpNormalPlatform.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/coin1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/coin1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/coin2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/coin2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/coin3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/coin3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/coin4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/coin4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/coin5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/coin5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/coin6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/coin6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/coin7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/coin7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Images/coin1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Images/coin1",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Images/coin2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Images/coin2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Images/coin3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Images/coin3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Images/coin4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Images/coin4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Images/coin5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Images/coin5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Images/coin6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Images/coin6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Images/coin7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Images/coin7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/playerwalk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/playerwalk1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/playerwalk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/playerwalk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Images/playerwalk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Images/playerwalk3.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -196,51 +364,21 @@
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
+        "gridDepth": 32,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
+        "gridOffsetZ": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.1726229638177799,
+        "zoomFactor": 1.9284316855173864,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 78.99999999999999,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Player",
-          "persistentUuid": "4ded1d81-e820-41d3-868a-3f314e5850bd",
-          "width": 79,
-          "x": 384,
-          "y": 304,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 384,
-          "layer": "Background",
-          "locked": true,
-          "name": "Background",
-          "persistentUuid": "9d4a2623-239c-44d1-95a4-076307aa3170",
-          "width": 640,
-          "x": 320,
-          "y": 160,
-          "zOrder": -10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -276,34 +414,16 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
+          "customSize": false,
+          "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Platform_Ground",
-          "persistentUuid": "1c4f7ab9-04d4-4cee-8572-96199ce1245c",
-          "width": 448,
-          "x": 352,
-          "y": 448,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Platform_Ground",
-          "persistentUuid": "672ee5c6-d2bb-4ae4-bc77-78d15064dd68",
-          "width": 128,
-          "x": 800,
-          "y": 384,
-          "zOrder": 5,
+          "name": "Player",
+          "persistentUuid": "28c7507d-5749-4d18-9e98-f71bdd15344e",
+          "width": 0,
+          "x": 553,
+          "y": 139,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -312,14 +432,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 32,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
-          "name": "Platform_Ground",
-          "persistentUuid": "e595746c-dfaa-4c91-a246-d36934b5a906",
-          "width": 160,
-          "x": 352,
-          "y": 352,
+          "name": "PlatformTop",
+          "persistentUuid": "6609e7c4-2275-4fbd-83d2-5e81dfbf01ff",
+          "width": 405,
+          "x": 523,
+          "y": 277,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -327,15 +447,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0.9411764705882353,
+          "height": 32,
           "keepRatio": true,
           "layer": "",
-          "name": "Coins",
-          "persistentUuid": "4c79f19c-996c-40e5-a8fb-fcaa13753abd",
-          "width": 0,
-          "x": 884,
-          "y": 364,
+          "name": "Coin",
+          "persistentUuid": "883760ab-34e2-403a-8eac-91c6bef7636f",
+          "width": 32,
+          "x": 830,
+          "y": 244,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -343,63 +464,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0.9411764705882353,
+          "height": 32,
           "keepRatio": true,
           "layer": "",
-          "name": "Coins",
-          "persistentUuid": "ad149014-b1f1-44bd-8a58-27b4aa2a7d41",
-          "width": 0,
-          "x": 836,
-          "y": 364,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coins",
-          "persistentUuid": "4d3402ec-1550-4679-a363-6c1361c0fe53",
-          "width": 0,
-          "x": 860,
-          "y": 364,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coins",
-          "persistentUuid": "e6622e84-477f-4c15-95ff-82ba580b8e3d",
-          "width": 0,
-          "x": 908,
-          "y": 364,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coins",
-          "persistentUuid": "d178725f-6851-40f2-949d-e15a89529086",
-          "width": 0,
-          "x": 812,
-          "y": 364,
+          "name": "Coin",
+          "persistentUuid": "dc28ceee-be8e-46ef-ba2d-ed0965d423db",
+          "width": 32,
+          "x": 897,
+          "y": 244,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -411,37 +485,30 @@
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Player",
+          "persistentUuid": "91ab8f82-e960-4837-bb7a-7f7118534780",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [
             {
-              "isFolded": true,
-              "name": "PlatformerMultitouchMapper",
-              "type": "SpriteMultitouchJoystick::PlatformerMultitouchMapper",
-              "Property": "PlatformerObject",
-              "ControllerIdentifier": 1,
-              "JoystickIdentifier": "Primary",
-              "JumpButton": "A"
-            },
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 500,
-              "deceleration": 750,
-              "gravity": 525,
-              "jumpSpeed": 360,
-              "jumpSustainTime": 0.3,
-              "maxFallingSpeed": 400,
-              "maxSpeed": 200,
+              "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
-              "canGrabWithoutMoving": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
               "ignoreDefaultControls": false,
-              "ladderClimbingSpeed": 200,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
+              "useRepeatedJump": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             },
@@ -500,16 +567,16 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Player_Idle",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.16666666666666666,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\StartingPixelPlayer.png",
+                      "image": "Images/playeridle1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -526,61 +593,26 @@
                         [
                           {
                             "x": 0,
-                            "y": 2
+                            "y": 8
                           },
                           {
-                            "x": 32,
-                            "y": 2
+                            "x": 42.5,
+                            "y": 8
                           },
                           {
-                            "x": 32,
-                            "y": 32
+                            "x": 42.5,
+                            "y": 64
                           },
                           {
                             "x": 0,
-                            "y": 32
+                            "y": 64
                           }
                         ]
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "height": 64,
-          "name": "Background",
-          "texture": "assets\\PixelBackground.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Coins",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
+                    },
                     {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\StartingPixelCoin.png",
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/playeridle2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -593,7 +625,62 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 42.5,
+                            "y": 8
+                          },
+                          {
+                            "x": 42.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/playeridle3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 42.5,
+                            "y": 8
+                          },
+                          {
+                            "x": 42.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -784,20 +871,299 @@
         },
         {
           "assetStoreId": "",
-          "height": 32,
-          "name": "Platform_Ground",
-          "texture": "assets\\StartingPixelGround.png",
+          "height": 64,
+          "name": "PlatformTop",
+          "persistentUuid": "021cca3a-7eaa-4aa1-a8a9-3d8ce1a35b62",
+          "texture": "Images/UpNormalPlatform.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "width": 64,
           "variables": [],
           "effects": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": false,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Coin",
+          "persistentUuid": "37e68537-5732-4416-98ba-42e66f9b1c20",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Images/coin1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/coin1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 170
+                          },
+                          {
+                            "x": 1,
+                            "y": 170
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/coin2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 170
+                          },
+                          {
+                            "x": 1,
+                            "y": 170
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/coin3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 170
+                          },
+                          {
+                            "x": 1,
+                            "y": 170
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/coin4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 170
+                          },
+                          {
+                            "x": 1,
+                            "y": 170
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/coin5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 170
+                          },
+                          {
+                            "x": 1,
+                            "y": 170
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/coin6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 170
+                          },
+                          {
+                            "x": 1,
+                            "y": 170
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Images/coin7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 0
+                          },
+                          {
+                            "x": 171,
+                            "y": 170
+                          },
+                          {
+                            "x": 1,
+                            "y": 170
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -809,13 +1175,7 @@
             "objectName": "Player"
           },
           {
-            "objectName": "Platform_Ground"
-          },
-          {
-            "objectName": "Background"
-          },
-          {
-            "objectName": "Coins"
+            "objectName": "PlatformTop"
           },
           {
             "folderName": "Mobile Controls",
@@ -827,6 +1187,9 @@
                 "objectName": "JumpButton"
               }
             ]
+          },
+          {
+            "objectName": "Coin"
           }
         ]
       },
@@ -877,7 +1240,7 @@
               },
               "parameters": [
                 "Player",
-                "Coins",
+                "Coin",
                 "",
                 "",
                 ""
@@ -890,20 +1253,8 @@
                 "value": "Delete"
               },
               "parameters": [
-                "Coins",
+                "Coin",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "PickupCoin",
-                "",
-                "80",
-                "RandomFloatInRange(1,1.1)"
               ]
             }
           ]
@@ -1008,10 +1359,6 @@
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
-        },
-        {
-          "name": "PlatformerMultitouchMapper",
-          "type": "SpriteMultitouchJoystick::PlatformerMultitouchMapper"
         },
         {
           "name": "PlatformerObject",
