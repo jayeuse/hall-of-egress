@@ -5,3 +5,7 @@ thumbnail.png
 # OS files
 .DS_Store
 Thumbs.db
+
+*.autosave
+*.tmp
+_autosave/
