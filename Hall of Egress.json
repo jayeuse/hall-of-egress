@@ -17660,13 +17660,6 @@
           "PercentDamageReduction": 0
         },
         {
-          "canBeGrabbed": true,
-          "name": "Platform",
-          "platformType": "NormalPlatform",
-          "type": "PlatformBehavior::PlatformBehavior",
-          "yGrabOffset": 0
-        },
-        {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
@@ -18964,13 +18957,6 @@
           "ShieldDamageTaken": 2.0247e-320,
           "FlatDamageReduction": 0,
           "PercentDamageReduction": 0
-        },
-        {
-          "canBeGrabbed": true,
-          "name": "Platform",
-          "platformType": "NormalPlatform",
-          "type": "PlatformBehavior::PlatformBehavior",
-          "yGrabOffset": 0
         },
         {
           "isFolded": true,
