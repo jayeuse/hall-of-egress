@@ -9,3 +9,7 @@ Thumbs.db
 *.autosave
 *.tmp
 _autosave/
+Hall of Egress.json.bak
+AGENTS.md
+implementation-plan.md
+screenshots/
